@@ -5,7 +5,7 @@
 <center style="font-size: 2.7rem;
     font-weight: 600;"> Project Title : Covid 19 Lockdown India Twitter Data Sentiment Analysis </center>
 
-![dsggsg.png](attachment:dsggsg.png)
+![dsggsg.png](dsggsg.png)
 
 ### Authors Name
  1. <a href="https://www.linkedin.com/in/dilipkumar15/" style="text-decoration: none;"  target="_blank">Dilip Kumar</a>
